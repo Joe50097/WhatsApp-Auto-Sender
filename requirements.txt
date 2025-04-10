@@ -1,0 +1,5 @@
+# this file is used to install the required packages for the project.
+# you can install the packages using pip by running the following command:
+# pip install -r requirements.txt
+python-dotenv
+pywhatkit
