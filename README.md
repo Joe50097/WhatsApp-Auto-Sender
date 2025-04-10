@@ -42,5 +42,5 @@ pip install -r requirements.txt
 Once the installation is complete, you can now run the script! Open a terminal or command prompt inside the folder where the script is located and run:
 
 ```
-python whatsapp-auto-sender.py
+python main.py
 ```
