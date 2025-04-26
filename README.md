@@ -44,3 +44,11 @@ Once the installation is complete, you can now run the script! Open a terminal o
 ```
 python main.py
 ```
+
+---
+
+## 🌟 Support the Project
+
+If you found this project useful or interesting, please consider giving it a ⭐ (star) on GitHub! Your support helps the project grow and lets others know that it's a valuable resource.
+
+You can star the project by clicking the **Star** button at the top of the repository page!
